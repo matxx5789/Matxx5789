@@ -2,7 +2,7 @@
 
 
 
-\## Perfil
+## Perfil
 
 Estudiante responsable y flexible, con capacidades para el trabajo independiente
 
@@ -18,33 +18,11 @@ oportunidad para desarrollar nuevas habilidades de aprendizaje.
 
 
 
-\## Información de contacto
+## Información de contacto
 
-\*\*Email:\*\* mateotras@hotmail.com
+**Email:** mateotras@hotmail.com
 
-\*\*Teléfono:\*\* 3053775953
-
-
-
----
-
-
-
-\## Habilidades
-
-\- Paciencia
-
-\- Simpatía y amabilidad
-
-\- Responsabilidad y compromiso
-
-\- Rapidez y eficacia
-
-\- Atención al cliente
-
-\- Pensamiento lógico
-
-\- Buen estado físico
+**Teléfono:** 3053775953
 
 
 
@@ -52,49 +30,21 @@ oportunidad para desarrollar nuevas habilidades de aprendizaje.
 
 
 
-\## Idiomas
+## Habilidades
 
-\- \*\*Inglés:\*\* B2
+- Paciencia
 
-\- \*\*Portugués:\*\* A1
+- Simpatía y amabilidad
 
+- Responsabilidad y compromiso
 
+- Rapidez y eficacia
 
----
+- Atención al cliente
 
+- Pensamiento lógico
 
-
-\## Experiencia laboral
-
-
-
-\### Asesor de ventas – Homecenter
-
-\*\*Agosto 2025 – Actualidad\*\*
-
-
-
-\- Asesoría personalizada a clientes en el proceso de compra.
-
-\- Apoyo en la correcta exhibición y organización de productos.
-
-\- Cumplimiento de metas comerciales y orientación al cliente según sus necesidades.
-
-\- Trabajo en equipo para garantizar una experiencia de compra satisfactoria.
-
-
-
-\### Vendedor especializado en calzado – Calzamundo
-
-\*\*2023-10 – 2023-12\*\*
-
-
-
-\- Exhibición y acomodo de los productos en la tienda de forma atractiva y organizada.
-
-\- Mantenimiento del orden y la limpieza del establecimiento en todo momento.
-
-\- Servicio amable y personalizado al cliente para lograr la venta.
+- Buen estado físico
 
 
 
@@ -102,15 +52,65 @@ oportunidad para desarrollar nuevas habilidades de aprendizaje.
 
 
 
-\## Formación académica
+## Idiomas
 
-\- \*\*Estudiante Pregrado Ingeniería de Sistemas\*\*
+- **Inglés:** B2
+
+- **Portugués:** A1
+
+
+
+---
+
+
+
+## Experiencia laboral
+
+
+
+### Asesor de ventas – Homecenter
+
+**Agosto 2025 – Actualidad**
+
+
+
+- Asesoría personalizada a clientes en el proceso de compra.
+
+- Apoyo en la correcta exhibición y organización de productos.
+
+- Cumplimiento de metas comerciales y orientación al cliente según sus necesidades.
+
+- Trabajo en equipo para garantizar una experiencia de compra satisfactoria.
+
+
+
+### Vendedor especializado en calzado – Calzamundo
+
+**2023-10 – 2023-12**
+
+
+
+- Exhibición y acomodo de los productos en la tienda de forma atractiva y organizada.
+
+- Mantenimiento del orden y la limpieza del establecimiento en todo momento.
+
+- Servicio amable y personalizado al cliente para lograr la venta.
+
+
+
+---
+
+
+
+## Formación académica
+
+- **Estudiante Pregrado Ingeniería de Sistemas**
 
 &nbsp; Pontificia Universidad Javeriana (2024 – actualmente)
 
 
 
-\- \*\*Técnico en Integración de Contenidos Digitales\*\*
+- **Técnico en Integración de Contenidos Digitales**
 
 &nbsp; SENA – Servicio Nacional de Aprendizaje (2021 – 2023)
 
