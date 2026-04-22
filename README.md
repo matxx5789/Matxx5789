@@ -116,7 +116,7 @@ oportunidad para desarrollar nuevas habilidades de aprendizaje.
 
 
 
-\- \*\*Bachiller\*\*
+- **Bachiller**
 
 &nbsp; Colegio Luigi Pirandello (2018 – 2023)
 
